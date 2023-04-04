@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nishi6verma
 - 👀 I’m interested in remote based frontend dev projects
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on live JavaScript projects
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on live React.js projects
 - 📫 How to reach me : write email @nishi6verma@gmail.com
 
 <!---
